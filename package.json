@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MuntakaHelali/Random-Person-Generator/issues"
   },
-  "homepage": "https://github.com/MuntakaHelali/Random-Person-Generator#readme"
+  "homepage": "https://github.com/MuntakaHelali/Random-Person-Generator#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
 }
