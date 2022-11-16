@@ -1,0 +1,19 @@
+{
+  "name": "random_person_generator",
+  "version": "1.0.0",
+  "description": "Application that produces Random User Information by fetching data from Random Data API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuntakaHelali/Random-Person-Generator.git"
+  },
+  "author": "Muntaka Helali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuntakaHelali/Random-Person-Generator/issues"
+  },
+  "homepage": "https://github.com/MuntakaHelali/Random-Person-Generator#readme"
+}
