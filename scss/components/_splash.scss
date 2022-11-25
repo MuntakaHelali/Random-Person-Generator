@@ -7,12 +7,39 @@
     align-items: center;
 }
 
-h1{
-    font-size: 3rem;
-    opacity: 0;
+.hide{
+    display:none;
+}
+
+.loading{
+    width: 6.25rem;
+    height: 6.25rem;
+    border-style: solid;
+    border-radius: 50%;
+    border-width: 1rem;
     position: absolute;
-    bottom: 0;
-    animation: splash-main 2s cubic-bezier(.17,.67,.28,.8) 1 forwards;
+}
+
+.c{
+    width: 0.55rem;
+    height: 0.55rem;
+    border-style: solid;
+    border-radius: 50%;
+    border-width: 0.46rem;
+}
+.c1{
+    color: red;
+    position: relative;
+    top: -0.35rem;
+}
+.c2{
+    color: blue;
+    position: relative;
+    bottom: -2.8rem;
+    left: 3.3rem;
+}
+h1{
+    font-size: 3rem;    
 }
 
 @keyframes splash-main {
